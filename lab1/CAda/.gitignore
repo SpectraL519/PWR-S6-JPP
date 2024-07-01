@@ -1,0 +1,4 @@
+*.ali
+*.o
+test_calgebra
+test_calgebra_recursive
